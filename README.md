@@ -1,4 +1,5 @@
 # calculator-docker
+[![Build Status](https://travis-ci.org/dev-tool-index/calculator-docker.svg?branch=master)](https://travis-ci.org/dev-tool-index/calculator-docker)
 
 This docker contains a web service [calculator-service](https://github.com/dev-tool-index/calculator-service) which is the application example for [Developer Tool Index
 ](https://www.gitbook.com/book/dev-tool-index/developer-tool-index/details).
