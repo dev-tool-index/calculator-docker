@@ -11,4 +11,4 @@ This docker image is built and stored [here](https://hub.docker.com/r/devtoolind
 > $ docker run --hostname my-mongo --name some-mongo -d -p 27017:27017 -p 28017:28017 mongo:3.2  --rest
 
 * start calculator-service
-> $ docker run -p 8090:8090 --link some-mongo:mongodb devtoolindex/calculator-service
+> $ docker run -p 8090:8000 --link some-mongo:mongodb devtoolindex/calculator-service
